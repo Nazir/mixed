@@ -1,6 +1,7 @@
 # Mixed #
 
 ![License](https://img.shields.io/github/license/Nazir/mixed)
+![GitHub repo size](https://img.shields.io/github/repo-size/Nazir/mixed)
 
 Mixed works
 
